@@ -1,5 +1,6 @@
 .venv
 .direnv
+*.DS_Store
 *__pycache__
 *generate_*.py
 *drafts
